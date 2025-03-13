@@ -87,7 +87,7 @@ To efficiently store and manage data, upsert logic was implemented using UUID5 u
 ✅ Updating existing records if a match is found
 ✅ Appending new records when no existing match is detected
 
-This structured approach enhances data reliability, ensures consistency, and optimizes storage and processing efficiency across the pipeline. 🚀
+This structured approach enhances data reliability, ensures consistency, and optimizes storage and processing efficiency across the pipeline. 🚀s
 
 ![image](https://github.com/user-attachments/assets/f39b3e6e-5b7f-48e0-bc79-8e250a812056)
 
