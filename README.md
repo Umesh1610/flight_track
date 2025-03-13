@@ -61,6 +61,37 @@ Challenges
 
 
 
-Architecture Diagram
+
+
+**Architecture and Methodology** 🏗️
+Medallion Architecture was adopted to ensure data quality, organization, and reliability across the pipeline.
+
+🔹 Bronze Layer – Raw Data Ingestion
+
+Stores data in its original format
+Serves as the primary source of truth
+🔸 Silver Layer – Data Processing & Transformation
+
+Cleansing, deduplication, filtering
+Structured & formatted data for analysis
+🏅 Gold Layer – Optimized & Validated Data
+
+Unit tests performed to ensure data integrity
+Only high-quality, reliable data is promoted for analytics and decision-making
+This approach ensures scalable, efficient data management while preventing bad or incomplete data from reaching production-level tables. 🚀
+
+**Incremental Storage and Upsert Logic**
+To efficiently store and manage data, upsert logic was implemented using UUID5 unique keys. This approach ensures:
+✅ Incremental data storage in Delta tables
+✅ Prevention of duplicate records
+✅ Updating existing records if a match is found
+✅ Appending new records when no existing match is detected
+
+This structured approach enhances data reliability, ensures consistency, and optimizes storage and processing efficiency across the pipeline. 🚀
 
 ![image](https://github.com/user-attachments/assets/f39b3e6e-5b7f-48e0-bc79-8e250a812056)
+
+
+
+![image](https://github.com/user-attachments/assets/b7b936a5-77be-4a48-8674-218af9bac874)
+
