@@ -20,6 +20,7 @@ Weather data refreshes every hour.
 
 
 **Data Source**
+----------------------------------------------
 1. AviationStack API 🛬
 The AviationStack API provides real-time global flight tracking data, including flight status, schedules, airline routes, and airport details. It updates every 30-60 seconds and covers 250+ countries and 13,000+ airlines.
 
@@ -63,9 +64,8 @@ Challenges
 
 
 
-
-
 **Architecture and Methodology** 🏗️
+----------------------------------------------
 Medallion Architecture was adopted to ensure data quality, organization, and reliability across the pipeline.
 
 🔹 Bronze Layer – Raw Data Ingestion
