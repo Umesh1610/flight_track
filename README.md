@@ -89,17 +89,6 @@ This approach ensures scalable, efficient data management while preventing bad o
  - Duplicate records were identified and removed.
 
 
-**Incremental Storage and Upsert Logic**   
-
-To efficiently store and manage data, upsert logic was implemented using UUID5 unique keys. This approach ensures:
-- ✅ Incremental data storage in Delta tables
-- ✅ Prevention of duplicate records
-- ✅ Updating existing records if a match is found
-- ✅ Appending new records when no existing match is detected
-
-This structured approach enhances data reliability, ensures consistency, and optimizes storage and processing efficiency across the pipeline. 🚀s
-
-
 
 
 
@@ -108,8 +97,23 @@ Data Model
 
 ![image](https://github.com/user-attachments/assets/b7b936a5-77be-4a48-8674-218af9bac874)
 
+---------------------------------------------------------
+**Streaming Processing, Ingestion, & Storage 💾**
 
-
+- Implemented Databricks Delta Live Tables (SLT) to stream real-time departure and arrival data from the AviationStack API, ensuring continuous ingestion of new flight records.
+- Instead of directly appending all records, upsert logic was applied using UUID5(Based on flight_iata, flight_date, flight_status) as a unique identifier to prevent duplicate records and maintain incremental storage in Delta tables.
+- Databricks Volumes were utilized for efficient storage and fast access to streaming data, while PySpark handled transformation and enrichment.
+- Configured a Databricks workflow to run continuously, leveraging Delta Live Tables (SLT) for seamless data ingestion and incremental updates in real-time.
+**Batch Processing 🕒**
+- Scheduled hourly batch updates in a Databricks workflow to refresh National Weather Service (NWS) data, ensuring the dashboard reflects the latest weather conditions.
+- Since the Global Airport Database lacked clear documentation on update frequency, an automated refresh workflow was not implemented, but manual updates were scheduled as needed.
+--------------------------------------------------------
+Data Quality 🔢
+To ensure data accuracy, consistency, and reliability across the pipeline, robust unit tests and data validation mechanisms were implemented:
+- ✅ Ensured incremental data integrity by applying upsert logic with UUID5, preventing data duplication in Streaming Live Delta tables and.
+- ✅ Implemented schema validation to confirm that all expected columns exist before promoting data from bronze → silver → gold layers.
+- ✅ Applied null-check constraints, replaced null with meaningful data on critical fields to prevent data gaps affecting analytics and reporting.
+- ✅ Implemented deduplication logic before writing into gold-layer tables, ensuring only clean, enriched data is used for decision-making.
 
 
 
