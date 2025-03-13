@@ -1,5 +1,5 @@
 **Airport Operations Dashboard - Project Overview**
-
+------------------------------
 This project focuses on ensuring the smooth operation of Dallas/Fort Worth International Airport (DFW) by integrating real-time flight and weather data. The system provides airport operators with key insights on flights, baggage, gate assignments, and weather conditions, allowing for improved passenger experience and operational efficiency.
 
 Key Features:
