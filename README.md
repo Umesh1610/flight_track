@@ -13,6 +13,7 @@ Weather data refreshes every hour.
 
 
 **Tech Stack**
+----------------------------------------------
 - Python (Data fetching, processing, and transformation)
 - Apache Spark (PySpark) (Data handling and transformations)
 - Databricks 📊 (Data processing, storage, orchestration)
