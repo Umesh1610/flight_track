@@ -8,7 +8,7 @@ Key Features:
 
 Flight data updates every minute.
 Weather data refreshes every hour.
--✅ Interactive Databricks Dashboard: Displays live flight schedules, delays, and weather conditions, allowing DFW airport operators to make data-driven decisions.
+- ✅ Interactive Databricks Dashboard: Displays live flight schedules, delays, and weather conditions, allowing DFW airport operators to make data-driven decisions.
 
 
 Tech Stack
@@ -23,11 +23,11 @@ The AviationStack API provides real-time global flight tracking data, including 
 
 Role in the Project
 This API serves as the foundation for the project, supplying essential flight data such as:
-✈ Airline IATA & Name
-✈ Flight Number
-✈ Departure & Arrival Details
-✈ Flight Status & Delays
-✈ Scheduled & Estimated Times
+- ✈ Airline IATA & Name
+- ✈ Flight Number
+- ✈ Departure & Arrival Details
+- ✈ Flight Status & Delays
+- ✈ Scheduled & Estimated Times
 
 Challenges
 🚨 API Limitations: The free version restricts usage to 100 requests per month, impacting real-time data retrieval.
