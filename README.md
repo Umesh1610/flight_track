@@ -78,7 +78,8 @@ Cleansing, deduplication, filtering
 Structured & formatted data for analysis
 - 🏅 Gold Layer – Optimized & Validated Data
 
-Unit tests performed to ensure data integrity
+**Unit tests performed to ensure data integrity**
+
 Only high-quality, reliable data is promoted for analytics and decision-making
 This approach ensures scalable, efficient data management while preventing bad or incomplete data from reaching production-level tables. 🚀
  - No null values were present in critical fields.
@@ -86,7 +87,8 @@ This approach ensures scalable, efficient data management while preventing bad o
  - Duplicate records were identified and removed.
 
 
-**Incremental Storage and Upsert Logic**
+**Incremental Storage and Upsert Logic**   
+
 To efficiently store and manage data, upsert logic was implemented using UUID5 unique keys. This approach ensures:
 - ✅ Incremental data storage in Delta tables
 - ✅ Prevention of duplicate records
