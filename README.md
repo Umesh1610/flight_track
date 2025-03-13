@@ -54,12 +54,12 @@ Role in the Project
 - The AviationStack API lacked location details for flights, requiring an additional data source to map flight origins and destinations accurately.
 
 Key Data Provided
- . 📍 ICAO & IATA Codes
- . 🛫 Airport Name, City, Country
- . 🌍 Latitude, Longitude, Altitude
+- 📍 ICAO & IATA Codes
+- 🛫 Airport Name, City, Country
+- 🌍 Latitude, Longitude, Altitude
 
 Challenges
-⚠ Unclear Data Updates: The database does not specify update frequency or maintenance process, which could impact long-term reliability, especially when new airports are added.
+- ⚠ Unclear Data Updates: The database does not specify update frequency or maintenance process, which could impact long-term reliability, especially when new airports are added.
 
 
 
@@ -68,26 +68,30 @@ Challenges
 ----------------------------------------------
 Medallion Architecture was adopted to ensure data quality, organization, and reliability across the pipeline.
 
-🔹 Bronze Layer – Raw Data Ingestion
+- 🔹 Bronze Layer – Raw Data Ingestion
 
 Stores data in its original format
 Serves as the primary source of truth
-🔸 Silver Layer – Data Processing & Transformation
+- 🔸 Silver Layer – Data Processing & Transformation
 
 Cleansing, deduplication, filtering
 Structured & formatted data for analysis
-🏅 Gold Layer – Optimized & Validated Data
+- 🏅 Gold Layer – Optimized & Validated Data
 
 Unit tests performed to ensure data integrity
 Only high-quality, reliable data is promoted for analytics and decision-making
 This approach ensures scalable, efficient data management while preventing bad or incomplete data from reaching production-level tables. 🚀
+ - No null values were present in critical fields.
+ - All expected columns existed in the dataset.
+ - Duplicate records were identified and removed.
+
 
 **Incremental Storage and Upsert Logic**
 To efficiently store and manage data, upsert logic was implemented using UUID5 unique keys. This approach ensures:
-✅ Incremental data storage in Delta tables
-✅ Prevention of duplicate records
-✅ Updating existing records if a match is found
-✅ Appending new records when no existing match is detected
+- ✅ Incremental data storage in Delta tables
+- ✅ Prevention of duplicate records
+- ✅ Updating existing records if a match is found
+- ✅ Appending new records when no existing match is detected
 
 This structured approach enhances data reliability, ensures consistency, and optimizes storage and processing efficiency across the pipeline. 🚀s
 
