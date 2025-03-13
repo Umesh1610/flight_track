@@ -103,12 +103,18 @@ This structured approach enhances data reliability, ensures consistency, and opt
 
 
 
+Data Model 
+---------------------------------------------------
+
 ![image](https://github.com/user-attachments/assets/b7b936a5-77be-4a48-8674-218af9bac874)
 
 
 
 
 
+
+Dashboards
+-----------------------------------------
 
 Departures page:
 ![image](https://github.com/user-attachments/assets/c9427492-5178-4803-90af-92355e79cd70)
@@ -125,14 +131,4 @@ Weather Report
 
 
 
-
-arrivals
-Arrival gate:
-arrival_gate
-Baggage Claim:
-baggage_claim
-Delayed flights page:
-delayed_flights
-Weather page:
-weather
 
