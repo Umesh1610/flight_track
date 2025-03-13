@@ -25,7 +25,7 @@ Weather data refreshes every hour.
 The AviationStack API provides real-time global flight tracking data, including flight status, schedules, airline routes, and airport details. It updates every 30-60 seconds and covers 250+ countries and 13,000+ airlines.
 
 Role in the Project
-- - This API serves as the foundation for the project, supplying essential flight data such as:
+This API serves as the foundation for the project, supplying essential flight data such as:
 - ✈ Airline IATA & Name
 - ✈ Flight Number
 - ✈ Departure & Arrival Details
@@ -54,9 +54,9 @@ Role in the Project
 - The AviationStack API lacked location details for flights, requiring an additional data source to map flight origins and destinations accurately.
 
 Key Data Provided
-📍 ICAO & IATA Codes
-🛫 Airport Name, City, Country
-🌍 Latitude, Longitude, Altitude
+ 📍 ICAO & IATA Codes
+ 🛫 Airport Name, City, Country
+ 🌍 Latitude, Longitude, Altitude
 
 Challenges
 ⚠ Unclear Data Updates: The database does not specify update frequency or maintenance process, which could impact long-term reliability, especially when new airports are added.
