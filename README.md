@@ -34,6 +34,33 @@ Challenges
 
 
 2. National Weather Service API ☀️
+The National Weather Service (NWS) is a government agency that provides critical weather forecasts, alerts, and observations. Its API offers public access to a wide range of essential weather data, updating every hour.
 
+Role in the Project
+NWS supplies hourly and weekly weather forecasts for DFW airport managers to assess potential flight delays due to rain, snow, wind, or extreme weather.
+
+Key Data Provided
+🌡 Temperature
+🌬 Wind Speed & Direction
+🌦 Short-Term & Detailed Forecasts
 
 3. Global Airport Database 📍
+The Global Airport Database provides location details for 9,300+ airports worldwide, covering both large and small airports.
+
+Role in the Project
+The AviationStack API lacked location details for flights, requiring an additional data source to map flight origins and destinations accurately.
+
+Key Data Provided
+📍 ICAO & IATA Codes
+🛫 Airport Name, City, Country
+🌍 Latitude, Longitude, Altitude
+
+Challenges
+⚠ Unclear Data Updates: The database does not specify update frequency or maintenance process, which could impact long-term reliability, especially when new airports are added.
+
+
+
+
+Architecture Diagram
+
+![image](https://github.com/user-attachments/assets/f39b3e6e-5b7f-48e0-bc79-8e250a812056)
