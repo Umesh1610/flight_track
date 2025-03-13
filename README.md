@@ -78,6 +78,8 @@ Cleansing, deduplication, filtering
 Structured & formatted data for analysis
 - 🏅 Gold Layer – Optimized & Validated Data
 
+
+![image](https://github.com/user-attachments/assets/f39b3e6e-5b7f-48e0-bc79-8e250a812056)
 **Unit tests performed to ensure data integrity**
 
 Only high-quality, reliable data is promoted for analytics and decision-making
@@ -97,9 +99,40 @@ To efficiently store and manage data, upsert logic was implemented using UUID5 u
 
 This structured approach enhances data reliability, ensures consistency, and optimizes storage and processing efficiency across the pipeline. 🚀s
 
-![image](https://github.com/user-attachments/assets/f39b3e6e-5b7f-48e0-bc79-8e250a812056)
+
 
 
 
 ![image](https://github.com/user-attachments/assets/b7b936a5-77be-4a48-8674-218af9bac874)
+
+
+
+
+
+
+Departures page:
+![image](https://github.com/user-attachments/assets/c9427492-5178-4803-90af-92355e79cd70)
+
+Arrivals Page
+![image](https://github.com/user-attachments/assets/1fd82a7f-3ae4-4bea-8355-57dcdfb02ae6)
+
+Delayed Flights
+![image](https://github.com/user-attachments/assets/fedd487e-e66c-4497-b6ad-fd1a3f8311c9)
+
+Weather Report
+![image](https://github.com/user-attachments/assets/7cf58f80-7259-4e58-82ad-568ebd5ca5d2)
+
+
+
+
+
+arrivals
+Arrival gate:
+arrival_gate
+Baggage Claim:
+baggage_claim
+Delayed flights page:
+delayed_flights
+Weather page:
+weather
 
