@@ -25,7 +25,7 @@ Weather data refreshes every hour.
 The AviationStack API provides real-time global flight tracking data, including flight status, schedules, airline routes, and airport details. It updates every 30-60 seconds and covers 250+ countries and 13,000+ airlines.
 
 Role in the Project
-This API serves as the foundation for the project, supplying essential flight data such as:
+- - This API serves as the foundation for the project, supplying essential flight data such as:
 - ✈ Airline IATA & Name
 - ✈ Flight Number
 - ✈ Departure & Arrival Details
@@ -33,25 +33,25 @@ This API serves as the foundation for the project, supplying essential flight da
 - ✈ Scheduled & Estimated Times
 
 Challenges
-🚨 API Limitations: The free version restricts usage to 100 requests per month, impacting real-time data retrieval.
+- 🚨 API Limitations: The free version restricts usage to 100 requests per month, impacting real-time data retrieval.
 
 
 2. National Weather Service API ☀️
 The National Weather Service (NWS) is a government agency that provides critical weather forecasts, alerts, and observations. Its API offers public access to a wide range of essential weather data, updating every hour.
 
 Role in the Project
-NWS supplies hourly and weekly weather forecasts for DFW airport managers to assess potential flight delays due to rain, snow, wind, or extreme weather.
+- NWS supplies hourly and weekly weather forecasts for DFW airport managers to assess potential flight delays due to rain, snow, wind, or extreme weather.
 
 Key Data Provided
-🌡 Temperature
-🌬 Wind Speed & Direction
-🌦 Short-Term & Detailed Forecasts
+- 🌡 Temperature
+- 🌬 Wind Speed & Direction
+- 🌦 Short-Term & Detailed Forecasts
 
 3. Global Airport Database 📍
-The Global Airport Database provides location details for 9,300+ airports worldwide, covering both large and small airports.
+- The Global Airport Database provides location details for 9,300+ airports worldwide, covering both large and small airports.
 
 Role in the Project
-The AviationStack API lacked location details for flights, requiring an additional data source to map flight origins and destinations accurately.
+- The AviationStack API lacked location details for flights, requiring an additional data source to map flight origins and destinations accurately.
 
 Key Data Provided
 📍 ICAO & IATA Codes
