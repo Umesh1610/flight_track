@@ -1,0 +1,4889 @@
+[
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "D",
+            "gate": "D22",
+            "delay": null,
+            "scheduled": "2025-03-11T18:09:00+00:00",
+            "estimated": "2025-03-11T18:09:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Xoxocotlan",
+            "timezone": "America/Mexico_City",
+            "iata": "OAX",
+            "icao": "MMOX",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T19:59:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "3026",
+            "iata": "AA3026",
+            "icao": "AAL3026",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B21",
+            "delay": null,
+            "scheduled": "2025-03-11T15:45:00+00:00",
+            "estimated": "2025-03-11T15:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Blue Grass",
+            "timezone": "America/New_York",
+            "iata": "LEX",
+            "icao": "KLEX",
+            "terminal": "3",
+            "gate": "B1",
+            "baggage": "1",
+            "delay": null,
+            "scheduled": "2025-03-11T18:51:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        },
+        "flight": {
+            "number": "2567",
+            "iata": "QR2567",
+            "icao": "QTR2567",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "3914",
+                "flight_iata": "aa3914",
+                "flight_icao": "aal3914"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B21",
+            "delay": null,
+            "scheduled": "2025-03-11T15:45:00+00:00",
+            "estimated": "2025-03-11T15:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Blue Grass",
+            "timezone": "America/New_York",
+            "iata": "LEX",
+            "icao": "KLEX",
+            "terminal": "3",
+            "gate": "B1",
+            "baggage": "1",
+            "delay": null,
+            "scheduled": "2025-03-11T18:51:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qantas",
+            "iata": "QF",
+            "icao": "QFA"
+        },
+        "flight": {
+            "number": "3339",
+            "iata": "QF3339",
+            "icao": "QFA3339",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "3914",
+                "flight_iata": "aa3914",
+                "flight_icao": "aal3914"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "C",
+            "gate": "C8",
+            "delay": null,
+            "scheduled": "2025-03-11T16:50:00+00:00",
+            "estimated": "2025-03-11T16:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Cincinnati/Northern Kentucky",
+            "timezone": "America/New_York",
+            "iata": "CVG",
+            "icao": "KCVG",
+            "terminal": "3",
+            "gate": "B24",
+            "baggage": "4",
+            "delay": null,
+            "scheduled": "2025-03-11T19:56:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        },
+        "flight": {
+            "number": "2483",
+            "iata": "QR2483",
+            "icao": "QTR2483",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "799",
+                "flight_iata": "aa799",
+                "flight_icao": "aal799"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "C",
+            "gate": "C8",
+            "delay": null,
+            "scheduled": "2025-03-11T16:50:00+00:00",
+            "estimated": "2025-03-11T16:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Cincinnati/Northern Kentucky",
+            "timezone": "America/New_York",
+            "iata": "CVG",
+            "icao": "KCVG",
+            "terminal": "3",
+            "gate": "B24",
+            "baggage": "4",
+            "delay": null,
+            "scheduled": "2025-03-11T19:56:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Gulf Air",
+            "iata": "GF",
+            "icao": "GFA"
+        },
+        "flight": {
+            "number": "6496",
+            "iata": "GF6496",
+            "icao": "GFA6496",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "799",
+                "flight_iata": "aa799",
+                "flight_icao": "aal799"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "C",
+            "gate": "C8",
+            "delay": null,
+            "scheduled": "2025-03-11T16:50:00+00:00",
+            "estimated": "2025-03-11T16:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Cincinnati/Northern Kentucky",
+            "timezone": "America/New_York",
+            "iata": "CVG",
+            "icao": "KCVG",
+            "terminal": "3",
+            "gate": "B24",
+            "baggage": "4",
+            "delay": null,
+            "scheduled": "2025-03-11T19:56:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "AlphaSky",
+            "iata": "AS",
+            "icao": "JAG"
+        },
+        "flight": {
+            "number": "4066",
+            "iata": "AS4066",
+            "icao": "JAG4066",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "799",
+                "flight_iata": "aa799",
+                "flight_icao": "aal799"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "D",
+            "gate": "D37",
+            "delay": 43,
+            "scheduled": "2025-03-11T14:37:00+00:00",
+            "estimated": "2025-03-11T14:37:00+00:00",
+            "actual": "2025-03-11T15:19:00+00:00",
+            "estimated_runway": "2025-03-11T15:19:00+00:00",
+            "actual_runway": "2025-03-11T15:19:00+00:00"
+        },
+        "arrival": {
+            "airport": "Louisville International (Standiford Field)",
+            "timezone": "America/Kentucky/Louisville",
+            "iata": "SDF",
+            "icao": "KSDF",
+            "terminal": "S",
+            "gate": "B6",
+            "baggage": null,
+            "delay": 20,
+            "scheduled": "2025-03-11T17:36:00+00:00",
+            "estimated": "2025-03-11T17:56:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qantas",
+            "iata": "QF",
+            "icao": "QFA"
+        },
+        "flight": {
+            "number": "3171",
+            "iata": "QF3171",
+            "icao": "QFA3171",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "2396",
+                "flight_iata": "aa2396",
+                "flight_icao": "aal2396"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "D",
+            "gate": "D37",
+            "delay": 43,
+            "scheduled": "2025-03-11T14:37:00+00:00",
+            "estimated": "2025-03-11T14:37:00+00:00",
+            "actual": "2025-03-11T15:19:00+00:00",
+            "estimated_runway": "2025-03-11T15:19:00+00:00",
+            "actual_runway": "2025-03-11T15:19:00+00:00"
+        },
+        "arrival": {
+            "airport": "Louisville International (Standiford Field)",
+            "timezone": "America/Kentucky/Louisville",
+            "iata": "SDF",
+            "icao": "KSDF",
+            "terminal": "S",
+            "gate": "B6",
+            "baggage": null,
+            "delay": 20,
+            "scheduled": "2025-03-11T17:36:00+00:00",
+            "estimated": "2025-03-11T17:56:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "AlphaSky",
+            "iata": "AS",
+            "icao": "JAG"
+        },
+        "flight": {
+            "number": "6140",
+            "iata": "AS6140",
+            "icao": "JAG6140",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "2396",
+                "flight_iata": "aa2396",
+                "flight_icao": "aal2396"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A15",
+            "delay": 27,
+            "scheduled": "2025-03-11T12:30:00+00:00",
+            "estimated": "2025-03-11T12:30:00+00:00",
+            "actual": "2025-03-11T12:56:00+00:00",
+            "estimated_runway": "2025-03-11T12:56:00+00:00",
+            "actual_runway": "2025-03-11T12:56:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ronald Reagan Washington National Airport",
+            "timezone": "America/New_York",
+            "iata": "DCA",
+            "icao": "KDCA",
+            "terminal": "2",
+            "gate": "D40",
+            "baggage": "11",
+            "delay": null,
+            "scheduled": "2025-03-11T16:23:00+00:00",
+            "estimated": "2025-03-11T16:17:00+00:00",
+            "actual": "2025-03-11T16:16:00+00:00",
+            "estimated_runway": "2025-03-11T16:16:00+00:00",
+            "actual_runway": "2025-03-11T16:16:00+00:00"
+        },
+        "airline": {
+            "name": "Qantas",
+            "iata": "QF",
+            "icao": "QFA"
+        },
+        "flight": {
+            "number": "4129",
+            "iata": "QF4129",
+            "icao": "QFA4129",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "2443",
+                "flight_iata": "aa2443",
+                "flight_icao": "aal2443"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A15",
+            "delay": 27,
+            "scheduled": "2025-03-11T12:30:00+00:00",
+            "estimated": "2025-03-11T12:30:00+00:00",
+            "actual": "2025-03-11T12:56:00+00:00",
+            "estimated_runway": "2025-03-11T12:56:00+00:00",
+            "actual_runway": "2025-03-11T12:56:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ronald Reagan Washington National Airport",
+            "timezone": "America/New_York",
+            "iata": "DCA",
+            "icao": "KDCA",
+            "terminal": "2",
+            "gate": "D40",
+            "baggage": "11",
+            "delay": null,
+            "scheduled": "2025-03-11T16:23:00+00:00",
+            "estimated": "2025-03-11T16:17:00+00:00",
+            "actual": "2025-03-11T16:16:00+00:00",
+            "estimated_runway": "2025-03-11T16:16:00+00:00",
+            "actual_runway": "2025-03-11T16:16:00+00:00"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JTL"
+        },
+        "flight": {
+            "number": "7410",
+            "iata": "JL7410",
+            "icao": "JTL7410",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "2443",
+                "flight_iata": "aa2443",
+                "flight_icao": "aal2443"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A15",
+            "delay": 27,
+            "scheduled": "2025-03-11T12:30:00+00:00",
+            "estimated": "2025-03-11T12:30:00+00:00",
+            "actual": "2025-03-11T12:56:00+00:00",
+            "estimated_runway": "2025-03-11T12:56:00+00:00",
+            "actual_runway": "2025-03-11T12:56:00+00:00"
+        },
+        "arrival": {
+            "airport": "Ronald Reagan Washington National Airport",
+            "timezone": "America/New_York",
+            "iata": "DCA",
+            "icao": "KDCA",
+            "terminal": "2",
+            "gate": "D40",
+            "baggage": "11",
+            "delay": null,
+            "scheduled": "2025-03-11T16:23:00+00:00",
+            "estimated": "2025-03-11T16:17:00+00:00",
+            "actual": "2025-03-11T16:16:00+00:00",
+            "estimated_runway": "2025-03-11T16:16:00+00:00",
+            "actual_runway": "2025-03-11T16:16:00+00:00"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        },
+        "flight": {
+            "number": "6256",
+            "iata": "G36256",
+            "icao": "GLO6256",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "2443",
+                "flight_iata": "aa2443",
+                "flight_icao": "aal2443"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A19",
+            "delay": null,
+            "scheduled": "2025-03-11T16:52:00+00:00",
+            "estimated": "2025-03-11T16:52:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Eppley Airfield",
+            "timezone": "America/Chicago",
+            "iata": "OMA",
+            "icao": "KOMA",
+            "terminal": "4",
+            "gate": "A7",
+            "baggage": "3",
+            "delay": null,
+            "scheduled": "2025-03-11T18:35:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        },
+        "flight": {
+            "number": "2444",
+            "iata": "QR2444",
+            "icao": "QTR2444",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "2270",
+                "flight_iata": "aa2270",
+                "flight_icao": "aal2270"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A19",
+            "delay": null,
+            "scheduled": "2025-03-11T16:52:00+00:00",
+            "estimated": "2025-03-11T16:52:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Eppley Airfield",
+            "timezone": "America/Chicago",
+            "iata": "OMA",
+            "icao": "KOMA",
+            "terminal": "4",
+            "gate": "A7",
+            "baggage": "3",
+            "delay": null,
+            "scheduled": "2025-03-11T18:35:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qantas",
+            "iata": "QF",
+            "icao": "QFA"
+        },
+        "flight": {
+            "number": "4785",
+            "iata": "QF4785",
+            "icao": "QFA4785",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "2270",
+                "flight_iata": "aa2270",
+                "flight_icao": "aal2270"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A19",
+            "delay": null,
+            "scheduled": "2025-03-11T16:52:00+00:00",
+            "estimated": "2025-03-11T16:52:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Eppley Airfield",
+            "timezone": "America/Chicago",
+            "iata": "OMA",
+            "icao": "KOMA",
+            "terminal": "4",
+            "gate": "A7",
+            "baggage": "3",
+            "delay": null,
+            "scheduled": "2025-03-11T18:35:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Gulf Air",
+            "iata": "GF",
+            "icao": "GFA"
+        },
+        "flight": {
+            "number": "6434",
+            "iata": "GF6434",
+            "icao": "GFA6434",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "2270",
+                "flight_iata": "aa2270",
+                "flight_icao": "aal2270"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A19",
+            "delay": null,
+            "scheduled": "2025-03-11T16:52:00+00:00",
+            "estimated": "2025-03-11T16:52:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Eppley Airfield",
+            "timezone": "America/Chicago",
+            "iata": "OMA",
+            "icao": "KOMA",
+            "terminal": "4",
+            "gate": "A7",
+            "baggage": "3",
+            "delay": null,
+            "scheduled": "2025-03-11T18:35:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        },
+        "flight": {
+            "number": "2428",
+            "iata": "BA2428",
+            "icao": "BAW2428",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "2270",
+                "flight_iata": "aa2270",
+                "flight_icao": "aal2270"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A19",
+            "delay": null,
+            "scheduled": "2025-03-11T16:52:00+00:00",
+            "estimated": "2025-03-11T16:52:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Eppley Airfield",
+            "timezone": "America/Chicago",
+            "iata": "OMA",
+            "icao": "KOMA",
+            "terminal": "4",
+            "gate": "A7",
+            "baggage": "3",
+            "delay": null,
+            "scheduled": "2025-03-11T18:35:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "AlphaSky",
+            "iata": "AS",
+            "icao": "JAG"
+        },
+        "flight": {
+            "number": "4637",
+            "iata": "AS4637",
+            "icao": "JAG4637",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "2270",
+                "flight_iata": "aa2270",
+                "flight_icao": "aal2270"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B31",
+            "delay": null,
+            "scheduled": "2025-03-11T16:05:00+00:00",
+            "estimated": "2025-03-11T16:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Greenville Spartanburg International Airport",
+            "timezone": "America/New_York",
+            "iata": "GSP",
+            "icao": "KGSP",
+            "terminal": null,
+            "gate": "A1",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T19:16:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        },
+        "flight": {
+            "number": "2643",
+            "iata": "QR2643",
+            "icao": "QTR2643",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "3393",
+                "flight_iata": "aa3393",
+                "flight_icao": "aal3393"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B31",
+            "delay": null,
+            "scheduled": "2025-03-11T16:05:00+00:00",
+            "estimated": "2025-03-11T16:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Greenville Spartanburg International Airport",
+            "timezone": "America/New_York",
+            "iata": "GSP",
+            "icao": "KGSP",
+            "terminal": null,
+            "gate": "A1",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T19:16:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "AlphaSky",
+            "iata": "AS",
+            "icao": "JAG"
+        },
+        "flight": {
+            "number": "4740",
+            "iata": "AS4740",
+            "icao": "JAG4740",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "3393",
+                "flight_iata": "aa3393",
+                "flight_icao": "aal3393"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "E",
+            "gate": "E38A",
+            "delay": 21,
+            "scheduled": "2025-03-11T15:57:00+00:00",
+            "estimated": "2025-03-11T15:57:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "James Cox Dayton International",
+            "timezone": "America/New_York",
+            "iata": "DAY",
+            "icao": "KDAY",
+            "terminal": null,
+            "gate": "A14",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T19:13:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "AlphaSky",
+            "iata": "AS",
+            "icao": "JAG"
+        },
+        "flight": {
+            "number": "4616",
+            "iata": "AS4616",
+            "icao": "JAG4616",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "5517",
+                "flight_iata": "aa5517",
+                "flight_icao": "aal5517"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B44",
+            "delay": null,
+            "scheduled": "2025-03-11T18:40:00+00:00",
+            "estimated": "2025-03-11T18:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Tulsa International",
+            "timezone": "America/Chicago",
+            "iata": "TUL",
+            "icao": "KTUL",
+            "terminal": null,
+            "gate": "A9",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T19:47:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Gulf Air",
+            "iata": "GF",
+            "icao": "GFA"
+        },
+        "flight": {
+            "number": "6720",
+            "iata": "GF6720",
+            "icao": "GFA6720",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "3867",
+                "flight_iata": "aa3867",
+                "flight_icao": "aal3867"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B44",
+            "delay": null,
+            "scheduled": "2025-03-11T18:40:00+00:00",
+            "estimated": "2025-03-11T18:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Tulsa International",
+            "timezone": "America/Chicago",
+            "iata": "TUL",
+            "icao": "KTUL",
+            "terminal": null,
+            "gate": "A9",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T19:47:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        },
+        "flight": {
+            "number": "4341",
+            "iata": "BA4341",
+            "icao": "BAW4341",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "3867",
+                "flight_iata": "aa3867",
+                "flight_icao": "aal3867"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B44",
+            "delay": null,
+            "scheduled": "2025-03-11T18:40:00+00:00",
+            "estimated": "2025-03-11T18:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Tulsa International",
+            "timezone": "America/Chicago",
+            "iata": "TUL",
+            "icao": "KTUL",
+            "terminal": null,
+            "gate": "A9",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T19:47:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Finnair",
+            "iata": "AY",
+            "icao": "FIN"
+        },
+        "flight": {
+            "number": "5665",
+            "iata": "AY5665",
+            "icao": "FIN5665",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "3867",
+                "flight_iata": "aa3867",
+                "flight_icao": "aal3867"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "D",
+            "gate": "D37",
+            "delay": null,
+            "scheduled": "2025-03-11T16:44:00+00:00",
+            "estimated": "2025-03-11T16:44:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Birmingham-Shuttlesworth International Airport",
+            "timezone": "America/Chicago",
+            "iata": "BHM",
+            "icao": "KBHM",
+            "terminal": "C",
+            "gate": "B3",
+            "baggage": "4",
+            "delay": null,
+            "scheduled": "2025-03-11T18:18:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        },
+        "flight": {
+            "number": "7906",
+            "iata": "QR7906",
+            "icao": "QTR7906",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "1824",
+                "flight_iata": "aa1824",
+                "flight_icao": "aal1824"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "D",
+            "gate": "D37",
+            "delay": null,
+            "scheduled": "2025-03-11T16:44:00+00:00",
+            "estimated": "2025-03-11T16:44:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Birmingham-Shuttlesworth International Airport",
+            "timezone": "America/Chicago",
+            "iata": "BHM",
+            "icao": "KBHM",
+            "terminal": "C",
+            "gate": "B3",
+            "baggage": "4",
+            "delay": null,
+            "scheduled": "2025-03-11T18:18:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Gulf Air",
+            "iata": "GF",
+            "icao": "GFA"
+        },
+        "flight": {
+            "number": "4140",
+            "iata": "GF4140",
+            "icao": "GFA4140",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "1824",
+                "flight_iata": "aa1824",
+                "flight_icao": "aal1824"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "D",
+            "gate": "D37",
+            "delay": null,
+            "scheduled": "2025-03-11T16:44:00+00:00",
+            "estimated": "2025-03-11T16:44:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Birmingham-Shuttlesworth International Airport",
+            "timezone": "America/Chicago",
+            "iata": "BHM",
+            "icao": "KBHM",
+            "terminal": "C",
+            "gate": "B3",
+            "baggage": "4",
+            "delay": null,
+            "scheduled": "2025-03-11T18:18:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        },
+        "flight": {
+            "number": "1904",
+            "iata": "BA1904",
+            "icao": "BAW1904",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "1824",
+                "flight_iata": "aa1824",
+                "flight_icao": "aal1824"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "D",
+            "gate": "D37",
+            "delay": null,
+            "scheduled": "2025-03-11T16:44:00+00:00",
+            "estimated": "2025-03-11T16:44:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Birmingham-Shuttlesworth International Airport",
+            "timezone": "America/Chicago",
+            "iata": "BHM",
+            "icao": "KBHM",
+            "terminal": "C",
+            "gate": "B3",
+            "baggage": "4",
+            "delay": null,
+            "scheduled": "2025-03-11T18:18:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "AlphaSky",
+            "iata": "AS",
+            "icao": "JAG"
+        },
+        "flight": {
+            "number": "6210",
+            "iata": "AS6210",
+            "icao": "JAG6210",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "1824",
+                "flight_iata": "aa1824",
+                "flight_icao": "aal1824"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A39",
+            "delay": 13,
+            "scheduled": "2025-03-11T14:30:00+00:00",
+            "estimated": "2025-03-11T14:30:00+00:00",
+            "actual": "2025-03-11T14:42:00+00:00",
+            "estimated_runway": "2025-03-11T14:42:00+00:00",
+            "actual_runway": "2025-03-11T14:42:00+00:00"
+        },
+        "arrival": {
+            "airport": "Richmond International Airport",
+            "timezone": "America/New_York",
+            "iata": "RIC",
+            "icao": "KRIC",
+            "terminal": null,
+            "gate": "A12",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T18:10:00+00:00",
+            "estimated": "2025-03-11T17:49:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        },
+        "flight": {
+            "number": "2637",
+            "iata": "QR2637",
+            "icao": "QTR2637",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "2349",
+                "flight_iata": "aa2349",
+                "flight_icao": "aal2349"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A39",
+            "delay": 13,
+            "scheduled": "2025-03-11T14:30:00+00:00",
+            "estimated": "2025-03-11T14:30:00+00:00",
+            "actual": "2025-03-11T14:42:00+00:00",
+            "estimated_runway": "2025-03-11T14:42:00+00:00",
+            "actual_runway": "2025-03-11T14:42:00+00:00"
+        },
+        "arrival": {
+            "airport": "Richmond International Airport",
+            "timezone": "America/New_York",
+            "iata": "RIC",
+            "icao": "KRIC",
+            "terminal": null,
+            "gate": "A12",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T18:10:00+00:00",
+            "estimated": "2025-03-11T17:49:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qantas",
+            "iata": "QF",
+            "icao": "QFA"
+        },
+        "flight": {
+            "number": "3025",
+            "iata": "QF3025",
+            "icao": "QFA3025",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "2349",
+                "flight_iata": "aa2349",
+                "flight_icao": "aal2349"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "active",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A39",
+            "delay": 13,
+            "scheduled": "2025-03-11T14:30:00+00:00",
+            "estimated": "2025-03-11T14:30:00+00:00",
+            "actual": "2025-03-11T14:42:00+00:00",
+            "estimated_runway": "2025-03-11T14:42:00+00:00",
+            "actual_runway": "2025-03-11T14:42:00+00:00"
+        },
+        "arrival": {
+            "airport": "Richmond International Airport",
+            "timezone": "America/New_York",
+            "iata": "RIC",
+            "icao": "KRIC",
+            "terminal": null,
+            "gate": "A12",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T18:10:00+00:00",
+            "estimated": "2025-03-11T17:49:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "AlphaSky",
+            "iata": "AS",
+            "icao": "JAG"
+        },
+        "flight": {
+            "number": "4109",
+            "iata": "AS4109",
+            "icao": "JAG4109",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "2349",
+                "flight_iata": "aa2349",
+                "flight_icao": "aal2349"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "D",
+            "gate": "D17",
+            "delay": null,
+            "scheduled": "2025-03-11T17:27:00+00:00",
+            "estimated": "2025-03-11T17:27:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Kansas City International Airport",
+            "timezone": "America/Chicago",
+            "iata": "MCI",
+            "icao": "KMCI",
+            "terminal": "M",
+            "gate": "A2",
+            "baggage": "3",
+            "delay": null,
+            "scheduled": "2025-03-11T18:58:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "AlphaSky",
+            "iata": "AS",
+            "icao": "JAG"
+        },
+        "flight": {
+            "number": "6629",
+            "iata": "AS6629",
+            "icao": "JAG6629",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "1164",
+                "flight_iata": "aa1164",
+                "flight_icao": "aal1164"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "E",
+            "gate": "E38A",
+            "delay": 21,
+            "scheduled": "2025-03-11T15:57:00+00:00",
+            "estimated": "2025-03-11T15:57:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "James Cox Dayton International",
+            "timezone": "America/New_York",
+            "iata": "DAY",
+            "icao": "KDAY",
+            "terminal": null,
+            "gate": "A14",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T19:13:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qantas",
+            "iata": "QF",
+            "icao": "QFA"
+        },
+        "flight": {
+            "number": "3236",
+            "iata": "QF3236",
+            "icao": "QFA3236",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "5517",
+                "flight_iata": "aa5517",
+                "flight_icao": "aal5517"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "E",
+            "gate": "E38A",
+            "delay": 21,
+            "scheduled": "2025-03-11T15:57:00+00:00",
+            "estimated": "2025-03-11T15:57:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "James Cox Dayton International",
+            "timezone": "America/New_York",
+            "iata": "DAY",
+            "icao": "KDAY",
+            "terminal": null,
+            "gate": "A14",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T19:13:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        },
+        "flight": {
+            "number": "2488",
+            "iata": "QR2488",
+            "icao": "QTR2488",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "5517",
+                "flight_iata": "aa5517",
+                "flight_icao": "aal5517"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "E",
+            "gate": "E24",
+            "delay": null,
+            "scheduled": "2025-03-11T17:46:00+00:00",
+            "estimated": "2025-03-11T17:46:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Mc Allen Miller International",
+            "timezone": "America/Chicago",
+            "iata": "MFE",
+            "icao": "KMFE",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T19:26:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        },
+        "flight": {
+            "number": "2778",
+            "iata": "QR2778",
+            "icao": "QTR2778",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "6271",
+                "flight_iata": "aa6271",
+                "flight_icao": "aal6271"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "E",
+            "gate": "E24",
+            "delay": null,
+            "scheduled": "2025-03-11T17:46:00+00:00",
+            "estimated": "2025-03-11T17:46:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Mc Allen Miller International",
+            "timezone": "America/Chicago",
+            "iata": "MFE",
+            "icao": "KMFE",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T19:26:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qantas",
+            "iata": "QF",
+            "icao": "QFA"
+        },
+        "flight": {
+            "number": "4598",
+            "iata": "QF4598",
+            "icao": "QFA4598",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "6271",
+                "flight_iata": "aa6271",
+                "flight_icao": "aal6271"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "E",
+            "gate": "E24",
+            "delay": null,
+            "scheduled": "2025-03-11T17:46:00+00:00",
+            "estimated": "2025-03-11T17:46:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Mc Allen Miller International",
+            "timezone": "America/Chicago",
+            "iata": "MFE",
+            "icao": "KMFE",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T19:26:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Gulf Air",
+            "iata": "GF",
+            "icao": "GFA"
+        },
+        "flight": {
+            "number": "6681",
+            "iata": "GF6681",
+            "icao": "GFA6681",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "6271",
+                "flight_iata": "aa6271",
+                "flight_icao": "aal6271"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "E",
+            "gate": "E24",
+            "delay": null,
+            "scheduled": "2025-03-11T17:46:00+00:00",
+            "estimated": "2025-03-11T17:46:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Mc Allen Miller International",
+            "timezone": "America/Chicago",
+            "iata": "MFE",
+            "icao": "KMFE",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T19:26:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        },
+        "flight": {
+            "number": "5270",
+            "iata": "BA5270",
+            "icao": "BAW5270",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "6271",
+                "flight_iata": "aa6271",
+                "flight_icao": "aal6271"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "E",
+            "gate": "E24",
+            "delay": null,
+            "scheduled": "2025-03-11T17:46:00+00:00",
+            "estimated": "2025-03-11T17:46:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Mc Allen Miller International",
+            "timezone": "America/Chicago",
+            "iata": "MFE",
+            "icao": "KMFE",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T19:26:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "AlphaSky",
+            "iata": "AS",
+            "icao": "JAG"
+        },
+        "flight": {
+            "number": "4170",
+            "iata": "AS4170",
+            "icao": "JAG4170",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "6271",
+                "flight_iata": "aa6271",
+                "flight_icao": "aal6271"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B18",
+            "delay": null,
+            "scheduled": "2025-03-11T19:50:00+00:00",
+            "estimated": "2025-03-11T19:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Fort Lauderdale\u2013Hollywood International",
+            "timezone": "America/New_York",
+            "iata": "FLL",
+            "icao": "KFLL",
+            "terminal": "3",
+            "gate": "E8",
+            "baggage": "C5",
+            "delay": null,
+            "scheduled": "2025-03-11T23:28:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "2946",
+            "iata": "AA2946",
+            "icao": "AAL2946",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A36",
+            "delay": null,
+            "scheduled": "2025-03-11T19:50:00+00:00",
+            "estimated": "2025-03-11T19:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Indianapolis International",
+            "timezone": "America/Indiana/Indianapolis",
+            "iata": "IND",
+            "icao": "KIND",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T22:53:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "2917",
+            "iata": "AA2917",
+            "icao": "AAL2917",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "C",
+            "gate": "C37",
+            "delay": null,
+            "scheduled": "2025-03-11T19:50:00+00:00",
+            "estimated": "2025-03-11T19:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Mc Carran International",
+            "timezone": "America/Los_Angeles",
+            "iata": "LAS",
+            "icao": "KLAS",
+            "terminal": "1",
+            "gate": "D14",
+            "baggage": "15",
+            "delay": null,
+            "scheduled": "2025-03-11T20:46:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "2667",
+            "iata": "AA2667",
+            "icao": "AAL2667",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B14",
+            "delay": null,
+            "scheduled": "2025-03-11T19:50:00+00:00",
+            "estimated": "2025-03-11T19:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Del Baj\u00edo International",
+            "timezone": "America/Mexico_City",
+            "iata": "BJX",
+            "icao": "MMLO",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T21:20:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "2190",
+            "iata": "AA2190",
+            "icao": "AAL2190",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "D",
+            "gate": "D4",
+            "delay": null,
+            "scheduled": "2025-03-11T19:50:00+00:00",
+            "estimated": "2025-03-11T19:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "La Aurora",
+            "timezone": "America/Guatemala",
+            "iata": "GUA",
+            "icao": "MGGT",
+            "terminal": null,
+            "gate": "11",
+            "baggage": "05",
+            "delay": null,
+            "scheduled": "2025-03-11T22:05:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "1737",
+            "iata": "AA1737",
+            "icao": "AAL1737",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A21",
+            "delay": null,
+            "scheduled": "2025-03-11T19:50:00+00:00",
+            "estimated": "2025-03-11T19:50:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "San Diego International Airport",
+            "timezone": "America/Los_Angeles",
+            "iata": "SAN",
+            "icao": "KSAN",
+            "terminal": "2",
+            "gate": "29",
+            "baggage": "6",
+            "delay": null,
+            "scheduled": "2025-03-11T21:07:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "1243",
+            "iata": "AA1243",
+            "icao": "AAL1243",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "E",
+            "gate": "E26",
+            "delay": null,
+            "scheduled": "2025-03-11T19:48:00+00:00",
+            "estimated": "2025-03-11T19:48:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Walker Field",
+            "timezone": "America/Denver",
+            "iata": "GJT",
+            "icao": "KGJT",
+            "terminal": null,
+            "gate": "4",
+            "baggage": "1",
+            "delay": null,
+            "scheduled": "2025-03-11T21:18:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "SkyWest Airlines",
+            "iata": "OO",
+            "icao": "SKW"
+        },
+        "flight": {
+            "number": "6191",
+            "iata": "OO6191",
+            "icao": "SKW6191",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "D",
+            "gate": "D40",
+            "delay": null,
+            "scheduled": "2025-03-11T19:48:00+00:00",
+            "estimated": "2025-03-11T19:48:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Bob Hope",
+            "timezone": "America/Los_Angeles",
+            "iata": "BUR",
+            "icao": "KBUR",
+            "terminal": "A",
+            "gate": "8",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T21:16:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "2597",
+            "iata": "AA2597",
+            "icao": "AAL2597",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "D",
+            "gate": "D31",
+            "delay": null,
+            "scheduled": "2025-03-11T19:45:00+00:00",
+            "estimated": "2025-03-11T19:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Miami International Airport",
+            "timezone": "America/New_York",
+            "iata": "MIA",
+            "icao": "KMIA",
+            "terminal": "N",
+            "gate": "D22",
+            "baggage": "24",
+            "delay": null,
+            "scheduled": "2025-03-11T23:35:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "2642",
+            "iata": "AA2642",
+            "icao": "AAL2642",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A15",
+            "delay": null,
+            "scheduled": "2025-03-11T19:45:00+00:00",
+            "estimated": "2025-03-11T19:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Nashville International",
+            "timezone": "America/Chicago",
+            "iata": "BNA",
+            "icao": "KBNA",
+            "terminal": "E",
+            "gate": "B10",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T21:31:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "1555",
+            "iata": "AA1555",
+            "icao": "AAL1555",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "D",
+            "gate": "D22",
+            "delay": null,
+            "scheduled": "2025-03-11T19:45:00+00:00",
+            "estimated": "2025-03-11T19:45:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "San Antonio International",
+            "timezone": "America/Chicago",
+            "iata": "SAT",
+            "icao": "KSAT",
+            "terminal": "B",
+            "gate": "B9",
+            "baggage": "B2",
+            "delay": null,
+            "scheduled": "2025-03-11T20:52:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "546",
+            "iata": "AA546",
+            "icao": "AAL546",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "E",
+            "gate": "E27",
+            "delay": null,
+            "scheduled": "2025-03-11T19:40:00+00:00",
+            "estimated": "2025-03-11T19:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Provo",
+            "timezone": "America/Denver",
+            "iata": "PVU",
+            "icao": "KPVU",
+            "terminal": null,
+            "gate": "1",
+            "baggage": "1",
+            "delay": null,
+            "scheduled": "2025-03-11T21:27:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "6188",
+            "iata": "AA6188",
+            "icao": "AAL6188",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "C",
+            "gate": "C7",
+            "delay": 18,
+            "scheduled": "2025-03-11T19:40:00+00:00",
+            "estimated": "2025-03-11T19:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Kansas City International Airport",
+            "timezone": "America/Chicago",
+            "iata": "MCI",
+            "icao": "KMCI",
+            "terminal": "M",
+            "gate": "A4",
+            "baggage": "3",
+            "delay": null,
+            "scheduled": "2025-03-11T21:12:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "2267",
+            "iata": "AA2267",
+            "icao": "AAL2267",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "C",
+            "gate": "C24",
+            "delay": 18,
+            "scheduled": "2025-03-11T19:40:00+00:00",
+            "estimated": "2025-03-11T19:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "General Mitchell International",
+            "timezone": "America/Chicago",
+            "iata": "MKE",
+            "icao": "KMKE",
+            "terminal": null,
+            "gate": "D53",
+            "baggage": "CLM5",
+            "delay": null,
+            "scheduled": "2025-03-11T21:55:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "2198",
+            "iata": "AA2198",
+            "icao": "AAL2198",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A29",
+            "delay": null,
+            "scheduled": "2025-03-11T19:40:00+00:00",
+            "estimated": "2025-03-11T19:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Joe Foss Field Airport",
+            "timezone": "America/Chicago",
+            "iata": "FSD",
+            "icao": "KFSD",
+            "terminal": null,
+            "gate": "5",
+            "baggage": "2",
+            "delay": null,
+            "scheduled": "2025-03-11T21:44:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "1563",
+            "iata": "AA1563",
+            "icao": "AAL1563",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "C",
+            "gate": "C15",
+            "delay": null,
+            "scheduled": "2025-03-11T19:40:00+00:00",
+            "estimated": "2025-03-11T19:40:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Hopkins International",
+            "timezone": "America/New_York",
+            "iata": "CLE",
+            "icao": "KCLE",
+            "terminal": null,
+            "gate": "C11",
+            "baggage": "8",
+            "delay": null,
+            "scheduled": "2025-03-11T23:12:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "560",
+            "iata": "AA560",
+            "icao": "AAL560",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B1",
+            "delay": null,
+            "scheduled": "2025-03-11T19:37:00+00:00",
+            "estimated": "2025-03-11T19:37:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Aguascalients",
+            "timezone": "America/Mexico_City",
+            "iata": "AGU",
+            "icao": "MMAS",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T21:02:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "3735",
+            "iata": "AA3735",
+            "icao": "AAL3735",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "E",
+            "gate": "E30",
+            "delay": null,
+            "scheduled": "2025-03-11T19:36:00+00:00",
+            "estimated": "2025-03-11T19:36:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "La Plata",
+            "timezone": "America/Denver",
+            "iata": "DRO",
+            "icao": "KDRO",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T20:46:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "6470",
+            "iata": "AA6470",
+            "icao": "AAL6470",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B38",
+            "delay": null,
+            "scheduled": "2025-03-11T19:35:00+00:00",
+            "estimated": "2025-03-11T19:35:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Lubbock Preston Smith International",
+            "timezone": "America/Chicago",
+            "iata": "LBB",
+            "icao": "KLBB",
+            "terminal": "1",
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T20:46:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "3510",
+            "iata": "AA3510",
+            "icao": "AAL3510",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "E",
+            "gate": "E8",
+            "delay": null,
+            "scheduled": "2025-03-11T19:31:00+00:00",
+            "estimated": "2025-03-11T19:31:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "George Bush Intercontinental",
+            "timezone": "America/Chicago",
+            "iata": "IAH",
+            "icao": "KIAH",
+            "terminal": "B",
+            "gate": "29",
+            "baggage": "C3",
+            "delay": null,
+            "scheduled": "2025-03-11T20:49:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "United Airlines",
+            "iata": "UA",
+            "icao": "UAL"
+        },
+        "flight": {
+            "number": "6158",
+            "iata": "UA6158",
+            "icao": "UAL6158",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "D",
+            "gate": "D37",
+            "delay": null,
+            "scheduled": "2025-03-11T19:31:00+00:00",
+            "estimated": "2025-03-11T19:31:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Harrisburg International",
+            "timezone": "America/New_York",
+            "iata": "MDT",
+            "icao": "KMDT",
+            "terminal": null,
+            "gate": "C1",
+            "baggage": "1",
+            "delay": null,
+            "scheduled": "2025-03-11T23:25:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "2469",
+            "iata": "AA2469",
+            "icao": "AAL2469",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A25",
+            "delay": null,
+            "scheduled": "2025-03-11T19:31:00+00:00",
+            "estimated": "2025-03-11T19:31:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Boise Air Terminal/Gowen Field",
+            "timezone": "America/Boise",
+            "iata": "BOI",
+            "icao": "KBOI",
+            "terminal": null,
+            "gate": "B18",
+            "baggage": "4",
+            "delay": null,
+            "scheduled": "2025-03-11T21:55:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "1104",
+            "iata": "AA1104",
+            "icao": "AAL1104",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "D",
+            "gate": "D16",
+            "delay": null,
+            "scheduled": "2025-03-11T19:30:00+00:00",
+            "estimated": "2025-03-11T19:30:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Heathrow",
+            "timezone": "Europe/London",
+            "iata": "LHR",
+            "icao": "EGLL",
+            "terminal": "5",
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-12T09:40:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        },
+        "flight": {
+            "number": "192",
+            "iata": "BA192",
+            "icao": "BAW192",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B48",
+            "delay": null,
+            "scheduled": "2025-03-11T19:30:00+00:00",
+            "estimated": "2025-03-11T19:30:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Wilmington International",
+            "timezone": "America/New_York",
+            "iata": "ILM",
+            "icao": "KILM",
+            "terminal": "1",
+            "gate": "3",
+            "baggage": "1",
+            "delay": null,
+            "scheduled": "2025-03-11T23:07:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "4032",
+            "iata": "AA4032",
+            "icao": "AAL4032",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "C",
+            "gate": "C20",
+            "delay": null,
+            "scheduled": "2025-03-11T19:30:00+00:00",
+            "estimated": "2025-03-11T19:30:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Spokane International",
+            "timezone": "America/Los_Angeles",
+            "iata": "GEG",
+            "icao": "KGEG",
+            "terminal": null,
+            "gate": "A5",
+            "baggage": "1",
+            "delay": null,
+            "scheduled": "2025-03-11T21:13:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "1303",
+            "iata": "AA1303",
+            "icao": "AAL1303",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "D",
+            "gate": "D17",
+            "delay": null,
+            "scheduled": "2025-03-11T19:30:00+00:00",
+            "estimated": "2025-03-11T19:30:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Mineta San Jose International Airport",
+            "timezone": "America/Los_Angeles",
+            "iata": "SJC",
+            "icao": "KSJC",
+            "terminal": "A",
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T21:25:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "364",
+            "iata": "AA364",
+            "icao": "AAL364",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B31",
+            "delay": null,
+            "scheduled": "2025-03-11T19:29:00+00:00",
+            "estimated": "2025-03-11T19:29:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Central Illinois Regional Airport at Bloomington-Normal",
+            "timezone": "America/Chicago",
+            "iata": "BMI",
+            "icao": "KBMI",
+            "terminal": null,
+            "gate": "5",
+            "baggage": "1",
+            "delay": null,
+            "scheduled": "2025-03-11T21:28:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "3571",
+            "iata": "AA3571",
+            "icao": "AAL3571",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "E",
+            "gate": "E24",
+            "delay": null,
+            "scheduled": "2025-03-11T19:25:00+00:00",
+            "estimated": "2025-03-11T19:25:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Yuma International Airport",
+            "timezone": "America/Phoenix",
+            "iata": "YUM",
+            "icao": "KNYL",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T20:33:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "5007",
+            "iata": "AA5007",
+            "icao": "AAL5007",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B4",
+            "delay": null,
+            "scheduled": "2025-03-11T19:24:00+00:00",
+            "estimated": "2025-03-11T19:24:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Robert Gray AAF",
+            "timezone": "America/Chicago",
+            "iata": "GRK",
+            "icao": "KGRK",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T20:15:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "4190",
+            "iata": "AA4190",
+            "icao": "AAL4190",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "D",
+            "gate": "D17",
+            "delay": null,
+            "scheduled": "2025-03-11T17:27:00+00:00",
+            "estimated": "2025-03-11T17:27:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Kansas City International Airport",
+            "timezone": "America/Chicago",
+            "iata": "MCI",
+            "icao": "KMCI",
+            "terminal": "M",
+            "gate": "A2",
+            "baggage": "3",
+            "delay": null,
+            "scheduled": "2025-03-11T18:58:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "British Airways",
+            "iata": "BA",
+            "icao": "BAW"
+        },
+        "flight": {
+            "number": "2384",
+            "iata": "BA2384",
+            "icao": "BAW2384",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "1164",
+                "flight_iata": "aa1164",
+                "flight_icao": "aal1164"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "D",
+            "gate": "D17",
+            "delay": null,
+            "scheduled": "2025-03-11T17:27:00+00:00",
+            "estimated": "2025-03-11T17:27:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Kansas City International Airport",
+            "timezone": "America/Chicago",
+            "iata": "MCI",
+            "icao": "KMCI",
+            "terminal": "M",
+            "gate": "A2",
+            "baggage": "3",
+            "delay": null,
+            "scheduled": "2025-03-11T18:58:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qantas",
+            "iata": "QF",
+            "icao": "QFA"
+        },
+        "flight": {
+            "number": "3209",
+            "iata": "QF3209",
+            "icao": "QFA3209",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "1164",
+                "flight_iata": "aa1164",
+                "flight_icao": "aal1164"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "D",
+            "gate": "D17",
+            "delay": null,
+            "scheduled": "2025-03-11T17:27:00+00:00",
+            "estimated": "2025-03-11T17:27:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Kansas City International Airport",
+            "timezone": "America/Chicago",
+            "iata": "MCI",
+            "icao": "KMCI",
+            "terminal": "M",
+            "gate": "A2",
+            "baggage": "3",
+            "delay": null,
+            "scheduled": "2025-03-11T18:58:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Qatar Airways",
+            "iata": "QR",
+            "icao": "QTR"
+        },
+        "flight": {
+            "number": "8546",
+            "iata": "QR8546",
+            "icao": "QTR8546",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "1164",
+                "flight_iata": "aa1164",
+                "flight_icao": "aal1164"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B3",
+            "delay": null,
+            "scheduled": "2025-03-11T19:21:00+00:00",
+            "estimated": "2025-03-11T19:21:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Greater Peoria",
+            "timezone": "America/Chicago",
+            "iata": "PIA",
+            "icao": "KPIA",
+            "terminal": null,
+            "gate": "3",
+            "baggage": "1",
+            "delay": null,
+            "scheduled": "2025-03-11T21:18:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "3574",
+            "iata": "AA3574",
+            "icao": "AAL3574",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A9",
+            "delay": null,
+            "scheduled": "2025-03-11T19:21:00+00:00",
+            "estimated": "2025-03-11T19:21:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Meadows Field",
+            "timezone": "America/Los_Angeles",
+            "iata": "BFL",
+            "icao": "KBFL",
+            "terminal": null,
+            "gate": "3",
+            "baggage": "1A",
+            "delay": null,
+            "scheduled": "2025-03-11T20:56:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "1110",
+            "iata": "AA1110",
+            "icao": "AAL1110",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B34",
+            "delay": null,
+            "scheduled": "2025-03-11T19:20:00+00:00",
+            "estimated": "2025-03-11T19:20:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Hector Field",
+            "timezone": "America/Chicago",
+            "iata": "FAR",
+            "icao": "KFAR",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T21:57:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "3551",
+            "iata": "AA3551",
+            "icao": "AAL3551",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B25",
+            "delay": null,
+            "scheduled": "2025-03-11T19:16:00+00:00",
+            "estimated": "2025-03-11T19:16:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Municipal/Baer Field",
+            "timezone": "America/Indiana/Indianapolis",
+            "iata": "FWA",
+            "icao": "KFWA",
+            "terminal": null,
+            "gate": "10",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T22:34:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "3658",
+            "iata": "AA3658",
+            "icao": "AAL3658",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "C",
+            "gate": "C7",
+            "delay": null,
+            "scheduled": "2025-03-11T19:16:00+00:00",
+            "estimated": "2025-03-11T19:16:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "LaGuardia",
+            "timezone": "America/New_York",
+            "iata": "LGA",
+            "icao": "KLGA",
+            "terminal": "B",
+            "gate": "17",
+            "baggage": "3",
+            "delay": null,
+            "scheduled": "2025-03-11T23:34:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "1726",
+            "iata": "AA1726",
+            "icao": "AAL1726",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A11",
+            "delay": null,
+            "scheduled": "2025-03-11T19:16:00+00:00",
+            "estimated": "2025-03-11T19:16:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Southwest Florida International",
+            "timezone": "America/New_York",
+            "iata": "RSW",
+            "icao": "KRSW",
+            "terminal": "1",
+            "gate": "D5",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T22:47:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "1267",
+            "iata": "AA1267",
+            "icao": "AAL1267",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "E",
+            "gate": "E13",
+            "delay": null,
+            "scheduled": "2025-03-11T19:15:00+00:00",
+            "estimated": "2025-03-11T19:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "LaGuardia",
+            "timezone": "America/New_York",
+            "iata": "LGA",
+            "icao": "KLGA",
+            "terminal": "C",
+            "gate": "68",
+            "baggage": "5",
+            "delay": null,
+            "scheduled": "2025-03-11T23:34:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        },
+        "flight": {
+            "number": "846",
+            "iata": "DL846",
+            "icao": "DAL846",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "E",
+            "gate": "E35",
+            "delay": null,
+            "scheduled": "2025-03-11T19:15:00+00:00",
+            "estimated": "2025-03-11T19:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Shreveport Regional Airport",
+            "timezone": "America/Chicago",
+            "iata": "SHV",
+            "icao": "KSHV",
+            "terminal": "E",
+            "gate": "3",
+            "baggage": "2",
+            "delay": null,
+            "scheduled": "2025-03-11T20:16:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "5492",
+            "iata": "AA5492",
+            "icao": "AAL5492",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B47",
+            "delay": null,
+            "scheduled": "2025-03-11T19:15:00+00:00",
+            "estimated": "2025-03-11T19:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Billings",
+            "timezone": "America/Denver",
+            "iata": "BIL",
+            "icao": "KBIL",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T21:14:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "3487",
+            "iata": "AA3487",
+            "icao": "AAL3487",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "C",
+            "gate": "C17",
+            "delay": null,
+            "scheduled": "2025-03-11T19:15:00+00:00",
+            "estimated": "2025-03-11T19:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Newark Liberty International",
+            "timezone": "America/New_York",
+            "iata": "EWR",
+            "icao": "KEWR",
+            "terminal": "A",
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T23:36:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "618",
+            "iata": "AA618",
+            "icao": "AAL618",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A34",
+            "delay": null,
+            "scheduled": "2025-03-11T19:15:00+00:00",
+            "estimated": "2025-03-11T19:15:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Leonardo Da Vinci (Fiumicino)",
+            "timezone": "Europe/Rome",
+            "iata": "FCO",
+            "icao": "LIRF",
+            "terminal": "3",
+            "gate": null,
+            "baggage": "11",
+            "delay": null,
+            "scheduled": "2025-03-12T11:20:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "240",
+            "iata": "AA240",
+            "icao": "AAL240",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B22",
+            "delay": null,
+            "scheduled": "2025-03-11T19:12:00+00:00",
+            "estimated": "2025-03-11T19:12:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Corpus Christi International Airport",
+            "timezone": "America/Chicago",
+            "iata": "CRP",
+            "icao": "KCRP",
+            "terminal": null,
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T20:36:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "3685",
+            "iata": "AA3685",
+            "icao": "AAL3685",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "E",
+            "gate": "E21",
+            "delay": 15,
+            "scheduled": "2025-03-11T19:10:00+00:00",
+            "estimated": "2025-03-11T19:10:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Chicago O'hare International",
+            "timezone": "America/Chicago",
+            "iata": "ORD",
+            "icao": "KORD",
+            "terminal": "5",
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T21:44:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Frontier Airlines",
+            "iata": "F9",
+            "icao": "FFT"
+        },
+        "flight": {
+            "number": "3242",
+            "iata": "F93242",
+            "icao": "FFT3242",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "E",
+            "gate": "E35",
+            "delay": 24,
+            "scheduled": "2025-03-11T19:10:00+00:00",
+            "estimated": "2025-03-11T19:10:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Huntsville International - Carl T. Jones Field",
+            "timezone": "America/Chicago",
+            "iata": "HSV",
+            "icao": "KHSV",
+            "terminal": "B",
+            "gate": null,
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T20:54:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "5632",
+            "iata": "AA5632",
+            "icao": "AAL5632",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A22",
+            "delay": null,
+            "scheduled": "2025-03-11T19:10:00+00:00",
+            "estimated": "2025-03-11T19:10:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Ronald Reagan Washington National Airport",
+            "timezone": "America/New_York",
+            "iata": "DCA",
+            "icao": "KDCA",
+            "terminal": "2",
+            "gate": "C31",
+            "baggage": "9",
+            "delay": null,
+            "scheduled": "2025-03-11T22:59:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "2752",
+            "iata": "AA2752",
+            "icao": "AAL2752",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B42",
+            "delay": null,
+            "scheduled": "2025-03-11T19:05:00+00:00",
+            "estimated": "2025-03-11T19:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Rapid City Regional Airport",
+            "timezone": "America/Denver",
+            "iata": "RAP",
+            "icao": "KRAP",
+            "terminal": null,
+            "gate": "3",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T20:29:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "3567",
+            "iata": "AA3567",
+            "icao": "AAL3567",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B24",
+            "delay": null,
+            "scheduled": "2025-03-11T19:05:00+00:00",
+            "estimated": "2025-03-11T19:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Tallahassee Regional Airport",
+            "timezone": "America/New_York",
+            "iata": "TLH",
+            "icao": "KTLH",
+            "terminal": null,
+            "gate": "A3",
+            "baggage": "CLM1",
+            "delay": null,
+            "scheduled": "2025-03-11T22:13:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "3536",
+            "iata": "AA3536",
+            "icao": "AAL3536",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A25",
+            "delay": null,
+            "scheduled": "2025-03-11T19:05:00+00:00",
+            "estimated": "2025-03-11T19:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Richmond International Airport",
+            "timezone": "America/New_York",
+            "iata": "RIC",
+            "icao": "KRIC",
+            "terminal": null,
+            "gate": "A10",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T22:50:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "3037",
+            "iata": "AA3037",
+            "icao": "AAL3037",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "C",
+            "gate": "C8",
+            "delay": null,
+            "scheduled": "2025-03-11T19:05:00+00:00",
+            "estimated": "2025-03-11T19:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Norfolk International Airport",
+            "timezone": "America/New_York",
+            "iata": "ORF",
+            "icao": "KORF",
+            "terminal": null,
+            "gate": "A4",
+            "baggage": "3",
+            "delay": null,
+            "scheduled": "2025-03-11T22:53:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "2587",
+            "iata": "AA2587",
+            "icao": "AAL2587",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B17",
+            "delay": null,
+            "scheduled": "2025-03-11T19:05:00+00:00",
+            "estimated": "2025-03-11T19:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Portland International",
+            "timezone": "America/Los_Angeles",
+            "iata": "PDX",
+            "icao": "KPDX",
+            "terminal": null,
+            "gate": "C19",
+            "baggage": "7",
+            "delay": null,
+            "scheduled": "2025-03-11T21:14:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "2298",
+            "iata": "AA2298",
+            "icao": "AAL2298",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A14",
+            "delay": null,
+            "scheduled": "2025-03-11T19:05:00+00:00",
+            "estimated": "2025-03-11T19:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Baltimore/Washington International Thurgood Marshall",
+            "timezone": "America/New_York",
+            "iata": "BWI",
+            "icao": "KBWI",
+            "terminal": null,
+            "gate": "C2",
+            "baggage": "9",
+            "delay": null,
+            "scheduled": "2025-03-11T22:58:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "2251",
+            "iata": "AA2251",
+            "icao": "AAL2251",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "C",
+            "gate": "C27",
+            "delay": null,
+            "scheduled": "2025-03-11T19:05:00+00:00",
+            "estimated": "2025-03-11T19:05:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Memphis International",
+            "timezone": "America/Chicago",
+            "iata": "MEM",
+            "icao": "KMEM",
+            "terminal": "B",
+            "gate": "17",
+            "baggage": "3",
+            "delay": null,
+            "scheduled": "2025-03-11T20:33:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "1758",
+            "iata": "AA1758",
+            "icao": "AAL1758",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "C",
+            "gate": "C19",
+            "delay": 20,
+            "scheduled": "2025-03-11T18:59:00+00:00",
+            "estimated": "2025-03-11T18:59:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Hartsfield-jackson Atlanta International",
+            "timezone": "America/New_York",
+            "iata": "ATL",
+            "icao": "KATL",
+            "terminal": "N",
+            "gate": "T12",
+            "baggage": "8",
+            "delay": null,
+            "scheduled": "2025-03-11T22:02:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "2072",
+            "iata": "AA2072",
+            "icao": "AAL2072",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "C",
+            "gate": "C21",
+            "delay": null,
+            "scheduled": "2025-03-11T18:59:00+00:00",
+            "estimated": "2025-03-11T18:59:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Northwest Arkansas Regional",
+            "timezone": "America/Chicago",
+            "iata": "XNA",
+            "icao": "KXNA",
+            "terminal": "B",
+            "gate": "A4",
+            "baggage": "2",
+            "delay": null,
+            "scheduled": "2025-03-11T20:13:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "795",
+            "iata": "AA795",
+            "icao": "AAL795",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "A",
+            "gate": "A35",
+            "delay": null,
+            "scheduled": "2025-03-11T18:58:00+00:00",
+            "estimated": "2025-03-11T18:58:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Bradley International",
+            "timezone": "America/New_York",
+            "iata": "BDL",
+            "icao": "KBDL",
+            "terminal": "A",
+            "gate": "28",
+            "baggage": "5",
+            "delay": null,
+            "scheduled": "2025-03-11T23:19:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "1425",
+            "iata": "AA1425",
+            "icao": "AAL1425",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "C",
+            "gate": "C4",
+            "delay": null,
+            "scheduled": "2025-03-11T18:57:00+00:00",
+            "estimated": "2025-03-11T18:57:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Will Rogers World Airport",
+            "timezone": "America/Chicago",
+            "iata": "OKC",
+            "icao": "KOKC",
+            "terminal": null,
+            "gate": "2",
+            "baggage": null,
+            "delay": null,
+            "scheduled": "2025-03-11T19:57:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "2257",
+            "iata": "AA2257",
+            "icao": "AAL2257",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "B",
+            "gate": "B9",
+            "delay": null,
+            "scheduled": "2025-03-11T18:56:00+00:00",
+            "estimated": "2025-03-11T18:56:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Vancouver International",
+            "timezone": "America/Vancouver",
+            "iata": "YVR",
+            "icao": "CYVR",
+            "terminal": "I",
+            "gate": null,
+            "baggage": "33",
+            "delay": null,
+            "scheduled": "2025-03-11T21:26:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "1434",
+            "iata": "AA1434",
+            "icao": "AAL1434",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "E",
+            "gate": "E17",
+            "delay": null,
+            "scheduled": "2025-03-11T18:55:00+00:00",
+            "estimated": "2025-03-11T18:55:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Logan International",
+            "timezone": "America/New_York",
+            "iata": "BOS",
+            "icao": "KBOS",
+            "terminal": "A",
+            "gate": "A18",
+            "baggage": "2",
+            "delay": null,
+            "scheduled": "2025-03-11T23:31:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "Delta Air Lines",
+            "iata": "DL",
+            "icao": "DAL"
+        },
+        "flight": {
+            "number": "303",
+            "iata": "DL303",
+            "icao": "DAL303",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "scheduled",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "C",
+            "gate": "C14",
+            "delay": null,
+            "scheduled": "2025-03-11T18:55:00+00:00",
+            "estimated": "2025-03-11T18:55:00+00:00",
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "arrival": {
+            "airport": "Logan International",
+            "timezone": "America/New_York",
+            "iata": "BOS",
+            "icao": "KBOS",
+            "terminal": "B",
+            "gate": "B21",
+            "baggage": "1",
+            "delay": null,
+            "scheduled": "2025-03-11T23:29:00+00:00",
+            "estimated": null,
+            "actual": null,
+            "estimated_runway": null,
+            "actual_runway": null
+        },
+        "airline": {
+            "name": "American Airlines",
+            "iata": "AA",
+            "icao": "AAL"
+        },
+        "flight": {
+            "number": "1366",
+            "iata": "AA1366",
+            "icao": "AAL1366",
+            "codeshared": null
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "C",
+            "gate": "C35",
+            "delay": 63,
+            "scheduled": "2025-03-11T12:19:00+00:00",
+            "estimated": "2025-03-11T12:19:00+00:00",
+            "actual": "2025-03-11T13:21:00+00:00",
+            "estimated_runway": "2025-03-11T13:21:00+00:00",
+            "actual_runway": "2025-03-11T13:21:00+00:00"
+        },
+        "arrival": {
+            "airport": "Charlotte Douglas",
+            "timezone": "America/New_York",
+            "iata": "CLT",
+            "icao": "KCLT",
+            "terminal": "M",
+            "gate": "A7",
+            "baggage": "1",
+            "delay": 21,
+            "scheduled": "2025-03-11T15:51:00+00:00",
+            "estimated": "2025-03-11T16:12:00+00:00",
+            "actual": "2025-03-11T16:12:00+00:00",
+            "estimated_runway": "2025-03-11T16:12:00+00:00",
+            "actual_runway": "2025-03-11T16:12:00+00:00"
+        },
+        "airline": {
+            "name": "Japan Airlines",
+            "iata": "JL",
+            "icao": "JTL"
+        },
+        "flight": {
+            "number": "7576",
+            "iata": "JL7576",
+            "icao": "JTL7576",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "1696",
+                "flight_iata": "aa1696",
+                "flight_icao": "aal1696"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    },
+    {
+        "flight_date": "2025-03-11",
+        "flight_status": "landed",
+        "departure": {
+            "airport": "Dallas/Fort Worth International",
+            "timezone": "America/Chicago",
+            "iata": "DFW",
+            "icao": "KDFW",
+            "terminal": "C",
+            "gate": "C35",
+            "delay": 63,
+            "scheduled": "2025-03-11T12:19:00+00:00",
+            "estimated": "2025-03-11T12:19:00+00:00",
+            "actual": "2025-03-11T13:21:00+00:00",
+            "estimated_runway": "2025-03-11T13:21:00+00:00",
+            "actual_runway": "2025-03-11T13:21:00+00:00"
+        },
+        "arrival": {
+            "airport": "Charlotte Douglas",
+            "timezone": "America/New_York",
+            "iata": "CLT",
+            "icao": "KCLT",
+            "terminal": "M",
+            "gate": "A7",
+            "baggage": "1",
+            "delay": 21,
+            "scheduled": "2025-03-11T15:51:00+00:00",
+            "estimated": "2025-03-11T16:12:00+00:00",
+            "actual": "2025-03-11T16:12:00+00:00",
+            "estimated_runway": "2025-03-11T16:12:00+00:00",
+            "actual_runway": "2025-03-11T16:12:00+00:00"
+        },
+        "airline": {
+            "name": "Gol",
+            "iata": "G3",
+            "icao": "GLO"
+        },
+        "flight": {
+            "number": "6096",
+            "iata": "G36096",
+            "icao": "GLO6096",
+            "codeshared": {
+                "airline_name": "american airlines",
+                "airline_iata": "aa",
+                "airline_icao": "aal",
+                "flight_number": "1696",
+                "flight_iata": "aa1696",
+                "flight_icao": "aal1696"
+            }
+        },
+        "aircraft": null,
+        "live": null
+    }
+]
