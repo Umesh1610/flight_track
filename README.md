@@ -54,9 +54,9 @@ Role in the Project
 - The AviationStack API lacked location details for flights, requiring an additional data source to map flight origins and destinations accurately.
 
 Key Data Provided
- 📍 ICAO & IATA Codes
- 🛫 Airport Name, City, Country
- 🌍 Latitude, Longitude, Altitude
+  📍 ICAO & IATA Codes
+  🛫 Airport Name, City, Country
+  🌍 Latitude, Longitude, Altitude
 
 Challenges
 ⚠ Unclear Data Updates: The database does not specify update frequency or maintenance process, which could impact long-term reliability, especially when new airports are added.
